@@ -1,0 +1,9 @@
+You can reach out to me through any of the following links:<br>
+<a href = "mailto: ajugjacob@gmail.com" class="green">Email</a></br>
+<a target="blank" href="https://www.linkedin.com/in/aju-george-jacob-502386189/" class="green">LinkedIn</a><br>
+<a target="blank" href="https://www.instagram.com/ajujacob1/" class="green">Instagram</a><br>
+<br>
+<br>
+All my works are available in the following link:<br>
+<a target="blank" href="https://github.com/ajugjacob" class="green">Github</a><br>
+<a target="blank" href="https://dribbble.com/ajugjacob" class="green">Dribbble</a>

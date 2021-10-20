@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap');
+
+* {
+    background-color: #212121;
+    color: white;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+input {
+    border: none;
+    min-width: 50%;
+    outline: none;
+    color: white;
+    font-size: 0.9em;
+}
+
+#terminal {
+    margin: 10% 15%;
+    min-width: 50%;
+    color: #00ff22;
+}
+
+.prompt {
+    font-weight: 400;
+}
+
+.output {
+    color: white;
+    font-size: 0.9em;
+}
+
+.green {
+    color: #00ff22 !important;
+    line-height: 1.4em;
+}
+
+@media only screen and (max-width: 600px) {
+    #terminal {
+        margin: 20% 5%;
+        min-width: 80%;
+        color: #00ff22;
+    }
+  }
