@@ -2,7 +2,7 @@ My name is <span class="green">Aju</span>, I am a <span class="green">Full-Stack
 and I love learning about new technologies.
 <br>
 <br>
-I work to create innovative solutions that inspire, and foster memorable relationships
+I work to create innovative solutions that inspire and foster memorable relationships
 between brands and their clients. With a focus on branding and UI / Web, I strive to
 create usable and polished products through passionate and deliberate design.
 <br>
@@ -18,7 +18,7 @@ Things I specialize in:<br>
 I'm currenting working as a <span class="green">Full-Stack Developer Intern</span>
 at <span class="green">Founding Minds</span>
 <br>
-I am also <span class="green">IEEE SBC Computer Society Chairperson of CEC</span>
+I am also <span class="green">Chairperson for IEEE SBC Computer Society of CEC</span>
 <br>
 <br>
 <a href="./files/resume/resume.pdf" target="blank" class="green">Resume</a>
