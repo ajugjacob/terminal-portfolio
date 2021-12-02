@@ -19,6 +19,7 @@ var command = document.querySelector("#command");
 command.addEventListener("submit", function(e) {
     e.preventDefault();
     var inputValue = document.getElementsByClassName("command-input")[0].value;
+    document.getElementsByClassName("command-input")[0].value = ""
     CheckInput(inputValue)
     console.log(inputValue);
 })
